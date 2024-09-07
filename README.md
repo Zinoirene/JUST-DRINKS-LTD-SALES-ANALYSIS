@@ -45,12 +45,30 @@ Data Visualization - Power BI
 - $456million sales was made over the course of the year under review
 - 34million quantities were purchased and 32million quantities were sold within the year.
 - During the review period, the top three stores in sales are Store 76 with $26 million, Store 73 with $22 million, and Store 74 with $21 million. Conversely, the bottom three stores are Store 45 with $1.44 million, Store 36 with $1.42 million, and Store 5 with $1.34 million.
-- i
+- Justdrinks Ltd has a total of 128 vendors but from their activities, mostly the top 10 critical vendors get their purchases activities as shown in the vendors relationship dashboard. 
+   - The company made total purchases of $322 million, with $210 million spent on critical vendors.
+   - Out of 34 million units purchased, 22 million units were sourced from these critical vendors.
 - The total sales in dollars made for wine is $165million while for spirit a total sales of $291million was made.
 - Compared to the overall sales, 36% was attributed to wine, while spirits accounted for 64%
 - The 750ml size is the most popular for wine, with over 10 million units sold and generating total sales of $134.6 million.
 - The most popular size for spirits by quantity is the 50ml, with over 10 million units sold. However, in terms of revenue, the 1750ml size leads, generating $132.3 million in total sales.
 - Store 34 has the highest average sales price for spirits at $62.06, while Store 36 has the lowest at $18.06.
 - Store 76 leads with the highest average wine sales price at $34.19, while Store 28 has the lowest at $12.21.
+
+## Recommendations
+#1. Prioritize Top Vendors
+   - Focus on the top 10 vendors for strategic discussions and relationship management to ensure continued supply chain stability and leverage for better terms.
+2. Implement Performance-Based Adjustments
+
+Use the performance evaluations to decide whether to continue, expand, or reduce engagements with each top vendor based on their delivery, quality, and cost metrics.
+Develop Risk Mitigation Strategies
+
+Establish contingency plans and explore alternative vendors to reduce dependency risks associated with the top 10 vendors.
+Leverage Negotiation Opportunities
+
+Negotiate improved terms, discounts, and service levels with the top 10 vendors based on the financial throughput data to optimize cost savings and competitive positioning.
+Monitor and Review Regularly
+
+Continuously monitor the performance and financial impact of the top 10 vendors and review strategies regularly to adapt to any changes or emerging risks.
 
 
