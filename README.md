@@ -57,7 +57,6 @@ Data Visualization - Power BI
 
 ## Recommendations
 
-## Request: 
 The Executive leadership requested recommendations on their vendor activities in order to focus efforts strategically on key supplier relationships.
 
 1. Prioritize Top Vendors
