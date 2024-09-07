@@ -56,19 +56,23 @@ Data Visualization - Power BI
 - Store 76 leads with the highest average wine sales price at $34.19, while Store 28 has the lowest at $12.21.
 
 ## Recommendations
-#1. Prioritize Top Vendors
+
+# Request: 
+The Executive leadership requested recommendations on the vendor activity in order to focus efforts strategically on key supplier relationships.
+
+1. Prioritize Top Vendors
    - Focus on the top 10 vendors for strategic discussions and relationship management to ensure continued supply chain stability and leverage for better terms.
+     
 2. Implement Performance-Based Adjustments
+   - Use the performance evaluations to decide whether to continue, expand, or reduce engagements with each top vendor based on their delivery, quality, and cost metrics.
 
-Use the performance evaluations to decide whether to continue, expand, or reduce engagements with each top vendor based on their delivery, quality, and cost metrics.
-Develop Risk Mitigation Strategies
+3. Develop Risk Mitigation Strategies
+   - Establish contingency plans and explore alternative vendors to reduce dependency risks associated with the top 10 vendors.
 
-Establish contingency plans and explore alternative vendors to reduce dependency risks associated with the top 10 vendors.
-Leverage Negotiation Opportunities
+4. Leverage Negotiation Opportunities
+   - Negotiate improved terms, discounts, and service levels with the top 10 vendors based on the financial throughput data to optimize cost savings and competitive positioning.
 
-Negotiate improved terms, discounts, and service levels with the top 10 vendors based on the financial throughput data to optimize cost savings and competitive positioning.
-Monitor and Review Regularly
-
-Continuously monitor the performance and financial impact of the top 10 vendors and review strategies regularly to adapt to any changes or emerging risks.
+5. Monitor and Review Regularly
+   - Continuously monitor the performance and financial impact of the top 10 vendors and review strategies regularly to adapt to any changes or emerging risks.
 
 
