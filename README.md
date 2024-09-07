@@ -27,20 +27,20 @@ Data Visualization - PowerBI
 3. Provide a breakdown that would be useful to help identify and monitor vendor activity in order to focus efforts strategically on key supplier relationships?
    
 4. What is the total Sales Dollars and percentage breakdown of wine and spirits?
-  - What is the total Sales Dollars for wine and spirit?
-  - What is the percentage breakdown of wine and spirit sales compared to total sales?
+     - What is the total Sales Dollars for wine and spirit?
+     - What is the percentage breakdown of wine and spirit sales compared to total sales?
     
 5. What is the most popular Size for wine and for spirits based on Sales Dollars and Quantity?
-  - What is the most popular size for wine based on Sales Dollars?
-  - What is the most popular size for wine based on Quantity?
-  - What is the most popular size for spirits based on Sales Dollars?
-  - What is the most popular size for spirits based on Quantity?
+     - What is the most popular size for wine based on Sales Dollars?
+     - What is the most popular size for wine based on Quantity?
+     - What is the most popular size for spirits based on Sales Dollars?
+     - What is the most popular size for spirits based on Quantity?
 
 6. Which Stores have the highest and lowest average sales price for wine and spirits?
-  - Which store has the highest average sales price for wine?
-  - Which store has the lowest average sales price for wine?
-  - Which store has the highest average sales price for spirits?
-  - Which store has the lowest average sales price for spirits?
+     - Which store has the highest average sales price for wine?
+     - Which store has the lowest average sales price for wine?
+     - Which store has the highest average sales price for spirits?
+     - Which store has the lowest average sales price for spirits?
 
 
    
