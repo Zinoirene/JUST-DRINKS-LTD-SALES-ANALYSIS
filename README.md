@@ -1,6 +1,6 @@
 ## JUST-DRINKS-LTD-SALES-ANALYSIS
 
-![Sales_Snapshot](https://github.com/user-attachments/assets/1dad5cfe-c7f3-49ec-a511-9bdf6c5fb606)
+![Sales_Snapshot](https://github.com/user-attachments/assets/f1e7f5ea-836d-4047-bdc8-9c9d593b1222)
 
 
 ## Background
@@ -57,8 +57,8 @@ Data Visualization - Power BI
 
 ## Recommendations
 
-# Request: 
-The Executive leadership requested recommendations on the vendor activity in order to focus efforts strategically on key supplier relationships.
+## Request: 
+The Executive leadership requested recommendations on their vendor activities in order to focus efforts strategically on key supplier relationships.
 
 1. Prioritize Top Vendors
    - Focus on the top 10 vendors for strategic discussions and relationship management to ensure continued supply chain stability and leverage for better terms.
@@ -74,5 +74,9 @@ The Executive leadership requested recommendations on the vendor activity in ord
 
 5. Monitor and Review Regularly
    - Continuously monitor the performance and financial impact of the top 10 vendors and review strategies regularly to adapt to any changes or emerging risks.
+
+## Limitations
+   - There was no sales table availed by JustDrinks Ltd. A sales table was createdusing the start inventory, Purchases and Final inventories table.
+
 
 
