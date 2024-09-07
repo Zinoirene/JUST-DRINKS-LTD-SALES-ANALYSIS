@@ -27,10 +27,8 @@ Data Visualization - PowerBI
 3. Provide a breakdown that would be useful to help identify and monitor vendor activity in order to focus efforts strategically on key supplier relationships?
    
 4. What is the total Sales Dollars and percentage breakdown of wine and spirits?
-  - What is the total Sales Dollars for wine?
-  - What is the total Sales Dollars for spirits?
-  - What is the percentage breakdown of wine sales compared to total sales
-  - What is the percentage breakdown of spirits sales compared to total sales?
+  - What is the total Sales Dollars for wine and spirit?
+  - What is the percentage breakdown of wine and spirit sales compared to total sales?
     
 5. What is the most popular Size for wine and for spirits based on Sales Dollars and Quantity?
   - What is the most popular size for wine based on Sales Dollars?
@@ -49,6 +47,10 @@ Data Visualization - PowerBI
 
 ## Summary of Findings
 
-
+- $456million sales was made over the course of the year under review
+- 34million quantities were purchased and 32million quantities were sold within the year.
+- i
+- The total sales in dollars made for wine is $165million while for spirit a total sales of $291million was made
+- 
 
 
