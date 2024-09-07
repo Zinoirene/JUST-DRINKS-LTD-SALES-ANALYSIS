@@ -20,7 +20,9 @@ Data Visualization - PowerBI
 
 ## Questions
 
-a. What is the total Sales Dollars and percentage breakdown of wine and spirits?
+1. What is the total Sales Dollars and percentage breakdown of wine and spirits?
+
+1. What is the total Sales Dollars and percentage breakdown of wine and spirits?
 What is the total Sales Dollars for wine?
 What is the total Sales Dollars for spirits?
 What is the percentage breakdown of wine sales compared to total sales?
