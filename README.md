@@ -44,6 +44,7 @@ Data Visualization - Power BI
 
 - $456million sales was made over the course of the year under review
 - 34million quantities were purchased and 32million quantities were sold within the year.
+- During the review period, the top three stores in sales are Store 76 with $26 million, Store 73 with $22 million, and Store 74 with $21 million. Conversely, the bottom three stores are Store 45 with $1.44 million, Store 36 with $1.42 million, and Store 5 with $1.34 million.
 - i
 - The total sales in dollars made for wine is $165million while for spirit a total sales of $291million was made.
 - Compared to the overall sales, 36% was attributed to wine, while spirits accounted for 64%
