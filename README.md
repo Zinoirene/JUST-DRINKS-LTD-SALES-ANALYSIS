@@ -27,10 +27,10 @@ Data Visualization - PowerBI
   - What is the percentage breakdown of spirits sales compared to total sales?
     
 2. What is the most popular Size for wine and for spirits based on Sales Dollars and Quantity?
-   - What is the most popular size for wine based on Sales Dollars?
-   - What is the most popular size for wine based on Quantity?
-   - What is the most popular size for spirits based on Sales Dollars?
-   - What is the most popular size for spirits based on Quantity?
+  - What is the most popular size for wine based on Sales Dollars?
+  - What is the most popular size for wine based on Quantity?
+  - What is the most popular size for spirits based on Sales Dollars?
+  - What is the most popular size for spirits based on Quantity?
      
 c. Which Stores have the highest and lowest average sales price for wine and spirits?
 Which store has the highest average sales price for wine?
