@@ -21,8 +21,11 @@ Data Visualization - PowerBI
 ## Questions
 
 1. What is the total sales for the year?
+   
 2. What is total quantities purchased compared to the quantities sold over the year?
+   
 3. Provide a breakdown that would be useful to help identify and monitor vendor activity in order to focus efforts strategically on key supplier relationships?
+   
 4. What is the total Sales Dollars and percentage breakdown of wine and spirits?
   - What is the total Sales Dollars for wine?
   - What is the total Sales Dollars for spirits?
