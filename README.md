@@ -75,7 +75,7 @@ The Executive leadership requested recommendations on their vendor activities in
    - Continuously monitor the performance and financial impact of the top 10 vendors and review strategies regularly to adapt to any changes or emerging risks.
 
 ## Limitations
-   - There was no sales table availed by JustDrinks Ltd. A sales table was createdusing the start inventory, Purchases and Final inventories table.
+   - There was no sales table availed by JustDrinks Ltd. A sales table was created using the start inventory, Purchases and Final inventories table.
 
 
 
